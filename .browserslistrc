@@ -1,0 +1,6 @@
+# https://github.com/browserslist/browserslist
+
+> 1%
+not edge <= 18
+not ie 11
+not op_mini all

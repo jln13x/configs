@@ -1,0 +1,17 @@
+@import '../node_modules/bootstrap/scss/bootstrap';
+
+.foo {
+  background: #fff;
+  border: 2px solid;
+
+  // clip-path: fill-box;
+  color: #fff;
+  font-size: xx-large;
+  font-weight: 700;
+  padding: 20px;
+  top: 0;
+
+  ::placeholder {
+    color: #f88;
+  }
+}
